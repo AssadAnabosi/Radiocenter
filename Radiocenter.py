@@ -168,7 +168,7 @@ victim_label = Label(fake_ban, fg=fg, bg=bg, text="Victim's Name")
 victim_label.place(x=x_label, y=10)
 
 victim_entry = Entry(fake_ban, width=w_entry)
-victim_entry.insert(0, name)
+victim_entry.insert(0, victim)
 victim_entry.place(x=x_entry, y=10, height=25)
 
 # buttons..
