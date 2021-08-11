@@ -89,7 +89,7 @@ fake_ban.pack(fill="both", expand=1)
 my_notebook.add(fake_inv, text="Case/Trade")
 my_notebook.add(fake_ban, text="Ban")
 
-# Fake Case / Trade
+# Fake Case / Trade..!
 
 # Case/Trade Drop Down Menu
 mode_label = Label(fake_inv, fg=fg, bg=bg, text="Case/Trade")
@@ -103,7 +103,7 @@ mode_drop_menu.config(bg=bg, fg=fg, width=5)
 mode_drop_menu["menu"].config(bg=bg, fg=fg)
 mode_drop_menu.place(x=x_entry, y=10)
 
-# name label and entry and save button
+# name label, entry and save button
 name_label = Label(fake_inv, fg=fg, bg=bg, text="Your Name")
 name_label.place(x=x_label, y=45)
 
@@ -161,7 +161,7 @@ rarity_drop_menu.place(x=x_entry, y=195)
 # buttons..
 copy_button = Button(fake_inv, text="Copy", fg=bg, bg=fg, width='12', command=copy).place(x=x_entry, y=235)
 
-# Fake Ban
+# Fake Ban..!
 
 # name label and entry
 victim_label = Label(fake_ban, fg=fg, bg=bg, text="Victim's Name")
