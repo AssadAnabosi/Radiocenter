@@ -1,4 +1,5 @@
-# Radiocenter
+# Radiocenter [DOES NOT WORK ANYMORE]
+Sadly looks like csgo dev team managed to shut down that bug where we could prank our friends
 CS:GO Radiocenter App
 A small app i created for people to prank eachothers with fake CSGO chat messages, and capture their reactions!
 The app is poor written since i'm still learning, and i learned alot during the journy of creating this app.
